@@ -16,7 +16,6 @@ Measurements of oxidative stress are often performed to assess a species’ gene
 
 The material consist of 
 
-* a folder containing all [**Data**](https://github.com/StatEcotox/Doering-et-al-2026)
-* a folder containinng all [**R Code**](https://github.com/StatEcotox/Doering-et-al-2026)
-* a folder containing all [**Plots**](https://github.com/StatEcotox/Doering-et-al-2026)
-* a file giving [**information about software and package versions**](https://github.com/StatEcotox/Doering-et-al-2026) used for the published analysis and illustration
+* a folder containing all [**Data**](https://github.com/StatEcotox/Doering-et-al-2026/tree/main/Data)
+* a folder containinng all [**R Code**](https://github.com/StatEcotox/Doering-et-al-2026/tree/main/Code)
+* a file giving [**information about software and package versions**](https://github.com/StatEcotox/Doering-et-al-2026/blob/main/Doering_et_al_2026_R_session_info.txt) used for the published analysis and illustration
